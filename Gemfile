@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem 'bootstrap', '~> 5.2.3'
+gem 'bootstrap', '~> 5.3.3'
 gem 'jquery-rails'
 gem "rails", "~> 7.2.0.beta3"
 gem "sprockets-rails"
